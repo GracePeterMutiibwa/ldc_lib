@@ -6,6 +6,8 @@ setup(
     description='Library for liver disease prediction using various machine learning models',
     author='Sentongo Muhsin',
     packages=find_packages(),
+    license='MIT',
+    keywords=['Liver Disease classification'],
     install_requires=[
         'pandas',
         'scikit-learn',
