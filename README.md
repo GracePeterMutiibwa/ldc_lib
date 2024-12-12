@@ -4,4 +4,4 @@ This library provides functions for data preprocessing, training, and evaluating
 
 ## Installation
 ```bash
-pip install .
+```
